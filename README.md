@@ -1,3 +1,3 @@
-# Module
+# EI
 
-模块化代码
+Edge Intelligence
